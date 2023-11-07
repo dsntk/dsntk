@@ -1,4 +1,4 @@
-# DSNTK | Decision Toolkit
+# Decision Toolkit
 
 [mit-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-MIT
 [apache-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-APACHE
