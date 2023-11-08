@@ -3,9 +3,8 @@
 [mit-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-MIT
 [apache-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-APACHE
 
-## Overview
-
 **Decision Toolkit** (or shortly **DSNTK**) is a suite of tools designed to evaluate, build, and test decision models.
+
 DSNTK is constructed based on the [Decision Model and Notation (DMN™)](https://www.omg.org/dmn/)
 specification, which is an industry standard governed by the [Object Management Group (OMG®)](https://www.omg.org/).
 
