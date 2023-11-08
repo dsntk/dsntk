@@ -44,13 +44,13 @@ to ensure high performance, reliability and portability.
 based on testing and user feedback. We welcome users to try DSNTK out and provide feedback or suggestions
 to improve its usability or performance.
 
-## License
+### License
 
 Licensed under either of [MIT license](https://opensource.org/licenses/MIT) ([LICENSE-MIT][mit-url]),
 or [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) ([LICENSE-APACHE][apache-url]) 
 at your option.
 
-## Contribution
+### Contribution
 
 Any contributions are greatly appreciated.
 If you would like to get involved, please don't hesitate to reach out to us.
