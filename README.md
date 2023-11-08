@@ -46,13 +46,13 @@ to improve its usability or performance.
 
 ### License
 
-Licensed under either of [MIT license](https://opensource.org/licenses/MIT) ([MIT][mit-url]),
+**DSNTK** is licensed under either of [MIT license](https://opensource.org/licenses/MIT) ([MIT][mit-url]),
 or [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) ([Apache 2.0][apache-url]) 
 at your option.
 
 ### Contribution
 
-Any contributions are greatly appreciated.
+Any contributions to **DSNTK** are greatly appreciated.
 If you would like to get involved, please don't hesitate to reach out to us.
 All contributions intentionally submitted for inclusion in the work by you, 
 shall be dual licensed as above, without any additional terms or conditions.
