@@ -34,16 +34,11 @@ to ensure high performance, reliability and portability.
 - Exporting decision tables to HTML
 - Exporting FEEL expressions to HTML
 
-## Documentation
+### Documentation
 
-**Decision Toolkit** documentation can be found [here](https://dsntk.io).
-To start quickly with **Decision Toolkit** take a look at: 
+**DSNTK** documentation can be found [here](https://dsntk.io).
 
-- [Installation](https://dsntk.io/user-guide/installation.html)
-- [Getting started](https://dsntk.io/user-guide/getting-started.html)
-- [Command-line commands](https://dsntk.io/user-guide/commands.html)
-
-## Project status
+### Project status
 
 DSNTK is **production ready**, but there are still some features that may be subject to change or refinement,
 based on testing and user feedback. We welcome users to try DSNTK out and provide feedback or suggestions
