@@ -3,7 +3,7 @@
 [mit-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-MIT
 [apache-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-APACHE
 
-**Decision Toolkit** (or shortly **DSNTK**) is a suite of tools designed to evaluate, build, and test decision models.
+**Decision Toolkit** (or shortly **DSNTK**) is a suite of tools designed to build, evaluate and test decision models.
 
 DSNTK is constructed based on the [Decision Model and Notation (DMN™)](https://www.omg.org/dmn/)
 specification, which is an industry standard governed by the [Object Management Group (OMG®)](https://www.omg.org/).
@@ -35,16 +35,18 @@ to ensure high performance, reliability and portability.
 - Exporting FEEL expressions to HTML
 
 ## Documentation
-- [Overview](https://dsntk.io/overview.html)
+
+**Decision Toolkit** documentation can be found [here](https://dsntk.io).
+To start quickly with **Decision Toolkit** take a look at: 
+
 - [Installation](https://dsntk.io/user-guide/installation.html)
 - [Getting started](https://dsntk.io/user-guide/getting-started.html)
 - [Command-line commands](https://dsntk.io/user-guide/commands.html)
 
 ## Project status
 
-Please note that although DSNTK is **production ready**, there are still some features
-that may be subject to change or refinement, based on testing and user feedback.
-We welcome users to try DSNTK out and provide feedback or suggestions
+DSNTK is **production ready**, but there are still some features that may be subject to change or refinement,
+based on testing and user feedback. We welcome users to try DSNTK out and provide feedback or suggestions
 to improve its usability or performance.
 
 ## License
