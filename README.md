@@ -37,11 +37,11 @@ to ensure high performance, reliability and portability.
 - Exporting decision tables to HTML
 - Exporting FEEL expressions to HTML
 
-### Documentation
+## Documentation
 
 **DSNTK** documentation can be found [here](https://dsntk.io).
 
-### Project status
+## Project status
 
 **DSNTK** is production ready, but there are still some features that may be subject to change or refinement,
 based on testing and user feedback. We welcome users to try DSNTK out and provide feedback or suggestions
@@ -56,7 +56,7 @@ Licensed under either of
 
 at your option.
 
-### Contribution
+## Contribution
 
 Any contributions to **DSNTK** are greatly appreciated.
 If you would like to get involved, please don't hesitate to reach out to us.
