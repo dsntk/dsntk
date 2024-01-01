@@ -1,7 +1,10 @@
 # Decision Toolkit
 
-[mit-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-MIT
-[apache-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-APACHE
+[mit-url]: https://opensource.org/licenses/MIT
+[mit-license-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-MIT
+[apache-url]: https://www.apache.org/licenses/LICENSE-2.0
+[apache-license-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE
+[apache-notice-url]: https://github.com/dsntk/dsntk-rs/blob/main/NOTICE
 
 **Decision Toolkit** (or shortly **DSNTK**) is a suite of tools designed to build, evaluate and test decision models.
 
@@ -44,10 +47,13 @@ to ensure high performance, reliability and portability.
 based on testing and user feedback. We welcome users to try DSNTK out and provide feedback or suggestions
 to improve its usability or performance.
 
-### License
+## License
 
-**DSNTK** is licensed under either of [MIT license](https://opensource.org/licenses/MIT) ([MIT][mit-url]),
-or [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) ([Apache 2.0][apache-url]) 
+Licensed under either of
+
+- [MIT license][mit-url] (see [LICENSE-MIT][mit-license-url]) or
+- [Apache License, Version 2.0][apache-url] (see [LICENSE][apache-license-url] and [NOTICE][apache-notice-url])
+
 at your option.
 
 ### Contribution
