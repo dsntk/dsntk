@@ -6,20 +6,20 @@
 [apache-license-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE
 [apache-notice-url]: https://github.com/dsntk/dsntk-rs/blob/main/NOTICE
 
-**Decision Toolkit** (or shortly **DSNTK**) is a suite of tools designed to build, evaluate and test decision models.
+**Decision Toolkit** is a suite of tools designed to build, evaluate and test decision models.
 
-**DSNTK** is constructed based on the [Decision Model and Notation (DMN™)](https://www.omg.org/dmn/)
+**Decision Toolkit** is constructed based on the [Decision Model and Notation (DMN™)](https://www.omg.org/dmn/)
 specification, which is an industry standard governed by the [Object Management Group (OMG®)](https://www.omg.org/).
 
-**DSNTK** aims to be performant, reliable, and fully compliant with the [DMN™](https://www.omg.org/spec/DMN) specification,
+**Decision Toolkit** aims to be performant, reliable, and fully compliant with the [DMN™](https://www.omg.org/spec/DMN) specification,
 ensuring accurate evaluation of decision models. All tools are implemented in [Rust](https://www.rust-lang.org/),
 a programming language known for its security, efficiency and reliability.
 
-**DSNTK** offers a range of features, including DMN model evaluation, decision table evaluation, and FEEL expression evaluation.
+**Decision Toolkit** offers a range of features, including DMN model evaluation, decision table evaluation, and FEEL expression evaluation.
 It also includes functionality for parsing, validating, and recognizing DMN models, decision tables, and FEEL expressions.
 Users can test DMN models, decision tables, and FEEL expressions, and export them to HTML format.
 
-**DSNTK** provides a comprehensive set of tools for decision model evaluation and testing,
+**Decision Toolkit** provides a comprehensive set of tools for decision model evaluation and testing,
 leveraging the [DMN™](https://www.omg.org/spec/DMN) specification and [Rust](https://www.rust-lang.org/) programming language
 to ensure high performance, reliability and portability.
 
@@ -39,12 +39,12 @@ to ensure high performance, reliability and portability.
 
 ## Documentation
 
-**DSNTK** documentation can be found [here](https://dsntk.io).
+**Decision Toolkit** documentation can be found [here](https://dsntk.io).
 
 ## Project status
 
-**DSNTK** is _**production ready**_, but there are still some features that may be subject to change or refinement,
-based on testing and user feedback. We welcome users to try **DSNTK** out and provide feedback or suggestions
+**Decision Toolkit** is _**production ready**_, but there are still some features that may be subject to change or refinement,
+based on testing and user feedback. We welcome users to try **Decision Toolkit** out and provide feedback or suggestions
 to improve its usability or performance.
 
 ## License
@@ -58,7 +58,7 @@ at your option.
 
 ## Contribution
 
-Any contributions to **DSNTK** are greatly appreciated.
+Any contributions to **Decision Toolkit** are greatly appreciated.
 If you would like to get involved, please don't hesitate to reach out to us.
 All contributions intentionally submitted for inclusion in the work by you, 
 shall be dual licensed as above, without any additional terms or conditions.
